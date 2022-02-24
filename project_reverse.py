@@ -5,4 +5,3 @@ for sl in l:
     sl.reverse()
     l1.append(sl)
 print(l1)
-
